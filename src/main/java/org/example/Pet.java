@@ -1,2 +1,9 @@
-package org.example;public interface Pet {
+package org.example;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public interface Pet {
+
+    void voice();
 }
