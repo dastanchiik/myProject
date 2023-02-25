@@ -16,6 +16,6 @@ public class Island2 {
     }
 
     public String toString(){
-        return " na ostrove derevo 🌳";
+        return " na ostrove derevo 🌳"+tree3.toString();
     }
 }

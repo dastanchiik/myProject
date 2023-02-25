@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.models.Svet;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
@@ -11,7 +12,8 @@ public class App {
 
 
         AnnotationConfigApplicationContext args1 = new AnnotationConfigApplicationContext(MyConfig.class);
-
+        Svet svet = (Svet) args1.getBean("svet");
+        System.out.println(svet.result());
 
 
 

@@ -16,6 +16,6 @@ public class Ocean1 {
     }
 
     public String toString(){
-        return " na oceane ostrov 🏝";
+        return " na oceane ostrov 🏝"+island2.toString();
     }
 }
