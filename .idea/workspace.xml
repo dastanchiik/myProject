@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3059f2-3f28-43fa-bd18-629b7d19e1a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Island2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Ocean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Rabbit4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Svet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Tree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/example" beforeDir="false" />
-    </list>
+    <list default="true" id="bf3059f2-3f28-43fa-bd18-629b7d19e1a2" name="Changes" comment="wow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,8 +84,16 @@
       <workItem from="1677061450927" duration="178000" />
       <workItem from="1677063686502" duration="711000" />
       <workItem from="1677149877762" duration="2693000" />
-      <workItem from="1677253520873" duration="1598000" />
+      <workItem from="1677253520873" duration="1635000" />
     </task>
+    <task id="LOCAL-00001" summary="wow">
+      <created>1677255137904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677255137904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wow" />
+    <option name="LAST_COMMIT_MESSAGE" value="wow" />
   </component>
 </project>
